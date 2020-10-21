@@ -6,7 +6,11 @@ body > p:first-of-type {
     text-align: center;
 }
 
-p {
+p, a {
     font-size: large;
     letter-spacing: 0.025em;
+}
+
+html {
+    margin-bottom: 3em;
 }
