@@ -1,0 +1,12 @@
+.centered {
+    text-align: center;
+}
+
+body > p:first-of-type {
+    text-align: center;
+}
+
+p {
+    font-size: large;
+    letter-spacing: 0.025em;
+}
